@@ -1,0 +1,18 @@
+.form-check-input[type=radio] {
+    margin-left: 14px;
+    display: inline-block;
+    margin-right: 10px;
+    border: 1px solid #000;
+    border-radius: 6px;
+}
+
+.form-check-input:checked {
+    background-color: #0a2fb6 !important;
+}
+
+.custom-select {
+    padding: 7px;
+    border-color: #dee2e6;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}

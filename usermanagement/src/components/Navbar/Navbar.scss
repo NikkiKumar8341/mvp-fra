@@ -1,0 +1,17 @@
+.navbar-brand-custom {
+  display: flex;
+  align-items: center;
+}
+
+.circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #0A2EB6;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 18px;
+  margin-right: 10px;
+}
